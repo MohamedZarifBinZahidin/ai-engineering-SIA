@@ -13,9 +13,9 @@ Higher Education / Career Services & Academic Advising
 
 # **Problem Statement**
 
-Students struggle to find suitable companies that accept internship applications matching their academic background and career goals. 
-Career information is fragmented across multiple platforms, and manual matching by university career centers is constrained by staff availability. 
-AI engineering makes it possible to build a personalized, document-grounded internship matching assistant that aligns student profiles with verified opportunities and official university internship guidelines.
+Students struggle to find suitable companies that accept internship applications matching their academic background and career goals.
+	Career information is fragmented across multiple platforms, and manual matching by university career centers is constrained by staff availability. 
+	AI engineering makes it possible to build a personalized, document-grounded internship matching assistant that aligns student profiles with verified opportunities and official university internship guidelines.
 
 # **Evidence of the Problem**
 
