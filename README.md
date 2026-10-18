@@ -13,8 +13,10 @@ Higher Education / Career Services & Academic Advising
 Students struggle to find suitable companies that accept internship applications matching their academic background and career goals. Career information is fragmented across multiple platforms, and manual matching by university career centers is constrained by staff availability. AI engineering makes it possible to build a personalized, document-grounded internship matching assistant that aligns student profiles with verified opportunities and official university internship guidelines.
 
 **Evidence of the Problem**  
-**Evidence 1:** A significant portion of fresh graduates face unemployment or underemployment partly due to difficulties in securing relevant industry exposure during their studies. Securing a relevant internship is a critical hurdle for undergraduates.  
-*Source / citation:* Ministry of Higher Education (MOHE) Graduate Tracer Study Reports (e.g., 2024), which highlight ongoing challenges in graduate employability and the critical role of pre-graduation internships.  
+**Evidence 1:** 
+A significant portion of fresh graduates face unemployment or underemployment partly due to difficulties in securing relevant industry exposure during their studies. Securing a relevant internship is a critical hurdle for undergraduates.  
+*Source / citation:* 
+Ministry of Higher Education (MOHE) Graduate Tracer Study Reports (e.g., 2024), which highlight ongoing challenges in graduate employability and the critical role of pre-graduation internships.  
 
 **Evidence 2:** Students frequently report high stress and logistical challenges in finding relevant roles that match their specific field of study, often encountering unclear expectations or insufficient guidance.  
 *Source / citation:* Recent studies on Work-Integrated Learning (WIL) note that students struggle with internship placement challenges, limiting their exposure to diverse professional opportunities and creating a gap between training and practice.  
