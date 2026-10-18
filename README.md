@@ -21,29 +21,23 @@ AI engineering makes it possible to build a personalized, document-grounded inte
 
 Evidence 1: A significant portion of fresh graduates face unemployment or underemployment partly due to difficulties in securing relevant industry exposure during their studies. Securing a relevant internship is a critical hurdle for undergraduates.
 
-Source / citation: Ministry of Higher Education (MOHE) Graduate Tracer Study Report (2024).
+Source / citation: [Ministry of Higher Education (MOHE) Graduate Tracer Study Report (2024).](https://www.mohe.gov.my/en/download/statistics/2024-4/1708-bab-7-tracer-study-2024-pdf/file) 
 
 Evidence 2: Students frequently report high stress and logistical challenges in finding relevant roles that match their specific field of study, often encountering unclear expectations or insufficient guidance.
 
-Source / citation: Recent studies on Work-Integrated Learning (WIL) and internship placement challenges in higher education.
+Source / citation: [Recent studies on Work-Integrated Learning (WIL) and internship placement challenges in higher education.](https://www.ijwil.org/files/IJWIL_27_1_43_58.pdf)
 
 # **Initial Related Work (at least 3)**
 
 - Study / solution 1: University Career Center Portals / Internal Job Boards
 
-Source / citation: Internal university career services websites and manual notice boards.
-
 Key limitation: Often static, manually updated, and lack personalized matching based on a student’s specific academic transcript or skills.
 
 - Study / solution 2: General-purpose job search platforms (e.g., LinkedIn, JobStreet)
 
-Source / citation: Public commercial job platforms.
-
 Key limitation: Not tailored to university-specific internship requirements (e.g., required credit hours, faculty approvals) and contain high "noise" (full-time or irrelevant roles).
 
 - Study / solution 3: Manual academic and career advising
-
-Source / citation: Traditional human career counseling models within universities.
 
 Key limitation: Highly contextual and valuable, but severely constrained by staff availability and scalability, leading to delayed or generic advice.
 
@@ -68,19 +62,9 @@ Undergraduate students (particularly those in their pre-internship semester) and
 
 # **Data Sources (at least 2)**
 
-- Source 1: University Internship Guidelines / Student Handbook PDF — URL: [Insert your university's career centre URL here]
-
-- Source 2: Curated Internship Job Listings Dataset (e.g., verified internship openings from partner companies) — URL: [Insert partner portal or public job board URL here]
-
-- Source 3 (if any): Faculty-specific Programme Guide PDFs (detailing specific internship credit and assessment requirements) — URL: [Insert faculty website URL here]
-
-# **Similar to EduAdvisor**
-
-Uses document-grounded AI (RAG) to answer questions and provide recommendations based on official, authoritative documents (e.g., internship policies instead of course catalogs). Aims to reduce the administrative burden on university staff while providing 24/7, instant assistance to students.
-
-# **Different from EduAdvisor**
-
-Focuses on career and internship matching rather than internal academic course advising. Requires integrating and reasoning over external or semi-structured data (company job descriptions, student resumes/profiles) in addition to internal university documents. Involves higher stakes regarding personal data privacy (handling student resumes, grades, and contact information).
+- Source 1: University Internship Guidelines / Student Handbook PDF — [URL](https://management.utm.my/industrial-training/?spm=a2ty_o01.29997173.0.0.2a93c921h1aSA0) 
+- Source 2: Curated Internship Job Listings Dataset (e.g., verified internship openings from partner companies) — [URL](https://my.jobstreet.com/internship-jobs 
+)
 
 # **Responsible AI Risks (at least 2)** 
 
@@ -95,3 +79,9 @@ Risk 2: Privacy & Data Security
 Risk 3: Bias / Fairness 
 
 - The matching algorithm might inadvertently favor certain demographics or well-known companies, leading to unequal access to high-quality internship opportunities.
+
+## Weekly Progress
+| Week | Focus | Deliverable | Status |
+|------|-------|-------------|--------|
+| W1 | System map + project scope | README + docs | ✅ |
+
