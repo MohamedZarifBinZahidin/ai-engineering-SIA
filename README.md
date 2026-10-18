@@ -95,3 +95,9 @@ Risk 2: Privacy & Data Security
 Risk 3: Bias / Fairness 
 
 - The matching algorithm might inadvertently favor certain demographics or well-known companies, leading to unequal access to high-quality internship opportunities.
+
+## Weekly Progress
+| Week | Focus | Deliverable | Status |
+|------|-------|-------------|--------|
+| W1 | System map + project scope | README + docs | ✅ |
+
