@@ -1,7 +1,7 @@
 | Category | Details |
 | :--- | :--- |
 | **System Name** | ChatGPT |
-| **Group Members** | MUHAMMAD ISBULLAH, MOHAMED ZARIF |
+| **Group Members** | MUHAMMAD ISBULLAH BIN MD HAMBALI, MOHAMED ZARIF BIN ZAHIDIN |
 | **1. Problem Solved** | People couldn't get a “natural response” when asking for help; they only received related webpages for their query. |
 | **1. Beneficiaries** | General public |
 | **2. Most Visible AI Stack Layer** | **Application** (The user interacts with a private message interface similar to WhatsApp). |
