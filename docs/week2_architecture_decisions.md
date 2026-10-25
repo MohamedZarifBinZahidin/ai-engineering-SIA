@@ -15,7 +15,7 @@ Version: 1.0
 ## Step C3: V1 Conceptual Architecture Description
 *(Use this description to draw your diagram in Draw.io)*
 
-![diagram should be here](SIA Diagram 1.png)
+![diagram should be here](SIA_Diagram_1.png)
 
 1. **User (Student)**: Initiates the query via a chat interface.
 2. **AI Application Interface**: Receives the input and routes it to the safety control.
