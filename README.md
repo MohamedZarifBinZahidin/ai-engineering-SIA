@@ -27,7 +27,7 @@ Evidence 2: Students frequently report high stress and logistical challenges in 
 
 Source / citation: [Recent studies on Work-Integrated Learning (WIL) and internship placement challenges in higher education.](https://www.ijwil.org/files/IJWIL_27_1_43_58.pdf)
 
-# **Initial Related Work (at least 3)**
+# **Initial Related Work **
 
 - Study / solution 1: University Career Center Portals / Internal Job Boards
 
@@ -48,7 +48,7 @@ What practical or technical limitation remains unresolved?
 Gap / Limitation: Existing solutions are either too generic (public job boards), too rigid (static university portals), or unscalable (human advisors). 
 There is a lack of an AI-driven, document-grounded system that can simultaneously understand official university internship policies, parse student academic profiles, and match them to verified company opportunities with explainable recommendations.
 
-# **Initial Project Objectives (2–3)**
+# **Initial Project Objectives **
 
 - O1: To design an AI-powered internship matching assistant that aligns student profiles (major, skills, preferences) with suitable company opportunities based on official university guidelines.
 
@@ -60,13 +60,13 @@ There is a lack of an AI-driven, document-grounded system that can simultaneousl
 
 Undergraduate students (particularly those in their pre-internship semester) and university career counselors who facilitate and monitor student placements.
 
-# **Data Sources (at least 2)**
+# **Data Sources **
 
 - Source 1: University Internship Guidelines / Student Handbook PDF — [URL](https://management.utm.my/industrial-training/?spm=a2ty_o01.29997173.0.0.2a93c921h1aSA0) 
 - Source 2: Curated Internship Job Listings Dataset (e.g., verified internship openings from partner companies) — [URL](https://my.jobstreet.com/internship-jobs 
 )
 
-# **Responsible AI Risks (at least 2)** 
+# **Responsible AI Risks ** 
 
 Risk 1: Hallucination / Misinformation 
 
