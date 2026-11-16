@@ -41,29 +41,29 @@ Key limitation: Not tailored to university-specific internship requirements (e.g
 
 Key limitation: Highly contextual and valuable, but severely constrained by staff availability and scalability, leading to delayed or generic advice.
 
-# **Engineering Gap / Limitation**
+# Engineering Gap / Limitation
 
 What practical or technical limitation remains unresolved?
 
 Gap / Limitation: Existing solutions are either too generic (public job boards), too rigid (static university portals), or unscalable (human advisors). 
 There is a lack of an AI-driven, document-grounded system that can simultaneously understand official university internship policies, parse student academic profiles, and match them to verified company opportunities with explainable recommendations.
 
-# **Initial Project Objectives **
+# Initial Project Objectives 
 
-- O1: To design an AI-powered internship matching assistant that aligns student profiles (major, skills, preferences) with suitable company opportunities based on official university guidelines.
+- O1: To design an AI-powered internship matching assistant that aligns student profiles with suitable company opportunities based on official university guidelines.
 
-- O2: To develop the proposed solution using Retrieval-Augmented Generation (RAG) to ensure recommendations are strictly grounded in verified university internship policies and curated job datasets.
+- O2: To develop the proposed solution in terms of relevance using Retrieval-Augmented Generation (RAG) for ensuring recommendations are strictly grounded in verified university internship policies and curated job datasets.
 
-- O3 (if applicable): To evaluate the solution in terms of matching relevance, recommendation explainability, and user satisfaction among target students.
+- O3: To evaluate the solution in terms of matching relevance and recommendation explainability.
 
-# **Target Users**
+# Target Users
 
 Undergraduate students (particularly those in their pre-internship semester) and university career counselors who facilitate and monitor student placements.
 
 # **Data Sources **
 
 - Source 1: University Internship Guidelines / Student Handbook PDF — [URL](https://management.utm.my/industrial-training/?spm=a2ty_o01.29997173.0.0.2a93c921h1aSA0) 
-- Source 2: Curated Internship Job Listings Dataset (e.g., verified internship openings from partner companies) — [URL](https://my.jobstreet.com/internship-jobs 
+- Source 2: Curated Internship Job Listings Dataset (e.g., verified internship openings from partner companies) — [URL](https://www.kaggle.com/datasets/adityarajsrv/job-descriptions-2025-tech-and-non-tech-roles?spm=a2ty_o01.29997173.0.0.2a93c921Z6M4uA) 
 )
 
 # **Responsible AI Risks ** 
