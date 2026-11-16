@@ -82,6 +82,19 @@ Risk 3: Bias / Fairness
 
 ## Weekly Progress
 | Week | Focus | Deliverable | Status |
-|------|-------|-------------|--------|
-| W1 | System map + project scope | README + docs | ✅ |
+|---|---|---|---|
+| W1 | System map and project scope | README and docs | Complete |
+| W2 | Requirements and Architecture | Week 2 docs | Complete |
+| W3 | Data Pipeline | Week 3 docs and notebook | Complete |
+| W4 | TBD | TBD | Planned |
+| W5 | TBD | TBD | Planned |
+| W6 | TBD | TBD | Planned |
+| W7 | TBD | TBD | Planned |
+| W8 | TBD | TBD | Planned |
+| W9 | TBD | TBD | Planned |
+| W10 | TBD | TBD | Planned |
+| W11 | TBD | TBD | Planned |
+| W12 | TBD | TBD | Planned |
+| W13 | TBD | TBD | Planned |
+| W14 | TBD | TBD | Planned |
 
